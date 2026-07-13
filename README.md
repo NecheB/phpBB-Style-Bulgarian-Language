@@ -1,6 +1,6 @@
 # 🇧🇬 phpBB Bulgarian Language Pack
 
-Official Bulgarian language pack for **phpBB 3.3.x**
+Official Bulgarian language pack for **phpBB 3.3.17**
 ---
 
 ![Bulgarian Language Pack](https://i.imgur.com/TMzofhv.png)
@@ -16,12 +16,12 @@ Official Bulgarian language pack for **phpBB 3.3.x**
 **NecheB © phpBB Bulgaria**
 
 ### Описание
-Официален български езиков пакет за phpBB 3.3.x.
+Официален български езиков пакет за phpBB 3.3.17.
 
 Пакетът съдържа преведени файлове на български език и е предназначен за всички форуми, използващи phpBB.
 
 ### Съвместимост
-- ✅ phpBB 3.3.x
+- ✅ phpBB 3.3.17
 - ✅ UTF-8
 - ✅ Български език
 
@@ -62,13 +62,13 @@ Customise → Language Packs
 **NecheB © phpBB Bulgaria**
 
 ### Description
-Official Bulgarian language pack for phpBB 3.3.x.
+Official Bulgarian language pack for phpBB 3.3.17.
 
 This package contains the complete Bulgarian translation for phpBB and is intended for forums using the phpBB platform.
 
 ### Compatibility
 
-- ✅ phpBB 3.3.x
+- ✅ phpBB 3.3.17
 - ✅ UTF-8
 - ✅ Bulgarian Language
 
